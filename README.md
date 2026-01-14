@@ -1,16 +1,21 @@
-## Hi there 👋
+# Welcome to my GitHub Dashboard 🚀
 
-<!--
-**omeryosef4m/omeryosef4m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📂 Quick Repo Shortcuts
 
-Here are some ideas to get you started:
+| Project | Link |
+| :--- | :--- |
+| **4ma-argocd-apps** | [Open Repo ↗️](https://github.com/4ma/4ma-argocd-apps) |
+| **4ma-argocd-infra-charts** | [Open Repo ↗️](https://github.com/4ma/4ma-argocd-infra-charts) |
+| **4ma-manifests** | [Open Repo ↗️](https://github.com/4ma/4ma-manifests) |
+| **4ma-argocd-datacore-charts** | [Open Repo ↗️](https://github.com/4ma/4ma-argocd-datacore-charts) |
+| **4ma-grpc** | [Open Repo ↗️](https://github.com/4ma/4ma-grpc) |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack & Tools
+- **Infrastructure:** ArgoCD, Kubernetes, Helm
+- **Communication:** gRPC
+- **Workflow:** GitOps
+
+---
+*Generated on: 2026-01-14*
