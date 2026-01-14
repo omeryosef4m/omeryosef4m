@@ -2,20 +2,10 @@
 
 ## 📂 Quick Repo Shortcuts
 
-| Project | Link |
-| :--- | :--- |
-| **4ma-argocd-apps** | [Open Repo ↗️](https://github.com/4ma/4ma-argocd-apps) |
-| **4ma-argocd-infra-charts** | [Open Repo ↗️](https://github.com/4ma/4ma-argocd-infra-charts) |
-| **4ma-manifests** | [Open Repo ↗️](https://github.com/4ma/4ma-manifests) |
-| **4ma-argocd-datacore-charts** | [Open Repo ↗️](https://github.com/4ma/4ma-argocd-datacore-charts) |
-| **4ma-grpc** | [Open Repo ↗️](https://github.com/4ma/4ma-grpc) |
-
----
-
-### 🛠 Tech Stack & Tools
-- **Infrastructure:** ArgoCD, Kubernetes, Helm
-- **Communication:** gRPC
-- **Workflow:** GitOps
-
----
-*Generated on: 2026-01-14*
+| Project |
+| :--- |
+| [4ma-argocd-apps ↗️](https://github.com/4ma/4ma-argocd-apps) |
+| [4ma-argocd-infra-charts ↗️](https://github.com/4ma/4ma-argocd-infra-charts) |
+| [4ma-manifests ↗️](https://github.com/4ma/4ma-manifests) |
+| [4ma-argocd-datacore-charts ↗️](https://github.com/4ma/4ma-argocd-datacore-charts) |
+| [4ma-grpc ↗️](https://github.com/4ma/4ma-grpc) |
