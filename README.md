@@ -12,4 +12,4 @@
 
 
 ### 🔍 Quick Search
-[Search my ArgoCD Repos](https://github.com/4ma?tab=repositories&q=argocd&type=&language=&sort=stargazers) | [Search all Repos (Recent Activity)](https://github.com/4ma?tab=repositories&sort=update)
+[Search my ArgoCD Repos](https://github.com/4ma?tab=repositories&q=argocd&type=&language=&sort=stargazers) 
